@@ -2,19 +2,11 @@
   "name": "pilet-cra-migration",
   "version": "0.1.0",
   "private": true,
-  "dependencies": {
-    "@testing-library/jest-dom": "^4.2.4",
-    "@testing-library/react": "^9.3.2",
-    "@testing-library/user-event": "^7.1.2",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1"
-  },
+  "dependencies": {},
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "start": "pilet debug src/index.tsx",
+    "build": "pilet build",
+    "upgrade": "pilet upgrade"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -30,5 +22,44 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@dbeining/react-atom": "^4.0.0",
+    "@libre/atom": "latest",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.3.2",
+    "@testing-library/user-event": "^7.1.2",
+    "@types/node": "latest",
+    "@types/react": "^16.8.1",
+    "@types/react-dom": "latest",
+    "@types/react-router": "^5.0.0",
+    "@types/react-router-dom": "latest",
+    "history": "latest",
+    "path-to-regexp": "latest",
+    "piral-cli": "^0.11.5-pre.1243",
+    "piral-cli-parcel": "0.11.5-pre.1243",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-router": "latest",
+    "react-router-dom": "latest",
+    "sample-piral": "0.11.4",
+    "tslib": "latest",
+    "typescript": "latest"
+  },
+  "piral": {
+    "comment": "Keep this section to use the Piral CLI.",
+    "name": "sample-piral"
+  },
+  "peerDependencies": {
+    "@dbeining/react-atom": "*",
+    "@libre/atom": "*",
+    "history": "*",
+    "path-to-regexp": "*",
+    "piral": "*",
+    "react": "*",
+    "react-dom": "*",
+    "react-router": "*",
+    "react-router-dom": "*",
+    "tslib": "*"
   }
 }
