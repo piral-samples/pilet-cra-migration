@@ -5803,10 +5803,10 @@ pilet-webpack-plugin@^0.8.0:
   resolved "https://registry.yarnpkg.com/pilet-webpack-plugin/-/pilet-webpack-plugin-0.8.0.tgz#a805a2465261237fb22eec69ac347a2ebeeea120"
   integrity sha512-J8MGytCtENdgClQqaci4TTvbREksBA5O0rKEHyACPBURwlBaYANzHgKjYWD74K8FCxoSHSr+r+qCfrkY+f3zJw==
 
-piral-cli-webpack@0.14.0:
-  version "0.14.0"
-  resolved "https://registry.yarnpkg.com/piral-cli-webpack/-/piral-cli-webpack-0.14.0.tgz#ee4902655f183b419ad7e8519979fcc4c3581948"
-  integrity sha512-nFJCLYVmGUUe/cnpjEm5DQikVapna9Uv/TBzIS6g5usDRjMI4PHWdPFvQ7WDE0RuivialCeW/vezJfF088VZiw==
+piral-cli-webpack@0.14.3:
+  version "0.14.3"
+  resolved "https://registry.yarnpkg.com/piral-cli-webpack/-/piral-cli-webpack-0.14.3.tgz#aeb3bc64b515d3069535612c8e2fe0ef9bff1346"
+  integrity sha512-rozSL1uBYaJ5N1Cqxs7H3ZJOBsszFTE9gJaGzxlWvous0Du9JM04JvnHLovPedhOrFu5+erge6QIJDO5uy/8yQ==
   dependencies:
     "@babel/core" "^7.15.8"
     "@babel/preset-env" "^7.15.8"
@@ -5831,10 +5831,10 @@ piral-cli-webpack@0.14.0:
     webpack-hot-middleware "^2.25.0"
     webpack-inject-plugin "^1.5.5"
 
-piral-cli@0.14.0:
-  version "0.14.0"
-  resolved "https://registry.yarnpkg.com/piral-cli/-/piral-cli-0.14.0.tgz#e61abd9cfe13328fee244ed4c8b72cbe8b7c8c59"
-  integrity sha512-QNSmPZn7IjknNnUySOGoQvxi1Z+X6fjbEnwKWHZFgKdGm0gtkqo4dw06TqH2jcEbKlLfPE6ShfmnlhS23vYmyg==
+piral-cli@0.14.3:
+  version "0.14.3"
+  resolved "https://registry.yarnpkg.com/piral-cli/-/piral-cli-0.14.3.tgz#5d45e8d0f51cae983ca85bd3c5b81e43508a9b05"
+  integrity sha512-j73+Kza80aWtNE+vv5At+p40neH4M9Abz+IcmZIR1syQOUed+sOjpfHK4cQcLTmvpXF4Dwv+SoZx+iuzVPfxTA==
   dependencies:
     chalk "^2.4.2"
     dets "^0.11.0"
@@ -6632,10 +6632,10 @@ safe-regex@^1.1.0:
   resolved "https://registry.yarnpkg.com/safer-buffer/-/safer-buffer-2.1.2.tgz#44fa161b0187b9549dd84bb91802f9bd8385cd6a"
   integrity sha512-YZo3K82SD7Riyi0E1EQPojLz7kpepnSQI9IyPbHHg1XXXevb5dJI7tpyN2ADxGcQbHG7vcyRHk0cbwqcQriUtg==
 
-sample-piral@latest:
-  version "0.13.9"
-  resolved "https://registry.yarnpkg.com/sample-piral/-/sample-piral-0.13.9.tgz#8781cd507cac8fd382d4e22c61cb1071bf825ab4"
-  integrity sha512-LlD250EQgi9r8eDSFIE0mR3de/Y1BRPfgKAg6ZE2oW/tTe3Bufdi5v3cimfvty5w/brqXzMoAokhzZ2/o5y3nA==
+sample-piral@0.14.3:
+  version "0.14.3"
+  resolved "https://registry.yarnpkg.com/sample-piral/-/sample-piral-0.14.3.tgz#db7f919b33e6a026c90e406b67693fccc0670433"
+  integrity sha512-Zag9jZIDkG/yShvAGOuFXZBITgSWlo0JRI6Hs6/SK0S2M7Nr+ZMw7+pdcXAehAJ0cvhBYevOe97L3dSGnljFAQ==
 
 sane@^4.0.3:
   version "4.1.0"

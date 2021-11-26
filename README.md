@@ -6,6 +6,8 @@
 
 :zap: This sample demonstrates a simple migration of a Create React App (CRA) to a pilet.
 
+You can visit this demo at [cra-migration.samples.piral.cloud/](https://cra-migration.samples.piral.cloud/).
+
 ## Getting Started
 
 This repository contains two branches:
